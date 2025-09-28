@@ -1,0 +1,8 @@
+text editors allows textual manipulation,
+available tool/editors include nano,vi and vim. 
+
+///basic commands 
+cp-copy
+mv-move
+htop-like taskmanager
+top-view applications consuming most resources.
