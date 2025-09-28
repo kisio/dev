@@ -1,0 +1,3 @@
+pipes and redirection,run and check
+pipes and redirection,run and check. this should be a new line
+this is a new message
