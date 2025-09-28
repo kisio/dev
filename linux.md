@@ -1,5 +1,6 @@
 
 ### **1. Introduction to Linux & Core Concepts**
+starts here
 
 Linux is a Unix-like, open-source operating system based on the Linux kernel. It's known for its stability, security, and flexibility.
 
